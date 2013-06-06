@@ -12,6 +12,8 @@
 
 ## [Angular Jobs](http://www.angularjobs.com/) ##
 
+## [JS Ninja Job Board](http://jobs.jsninja.com/) ##
+
 ## [Work in Startups](http://workinstartups.com/) ##
 
 ## [Sillicon Milkroundabout Events](http://siliconmilkroundabout.com/) ##
