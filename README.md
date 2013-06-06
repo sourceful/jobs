@@ -8,6 +8,8 @@
 
 ## [Smashing Magazine Jobs](http://jobs.smashingmagazine.com/) ##
 
+## [NodeJS Jobs](http://jobs.nodejs.org/) ##
+
 ## [Angular Jobs](http://www.angularjobs.com/) ##
 
 ## [Work in Startups](http://workinstartups.com/) ##
