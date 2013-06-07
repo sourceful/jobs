@@ -14,6 +14,8 @@
 
 ## [JS Ninja Job Board](http://jobs.jsninja.com/) ##
 
+## [Authentic Jobs](http://www.authenticjobs.com/) ##
+
 ## [Mighty Spring](http://www.mightyspring.com/) ##
 
 ## [Coder Wall](https://coderwall.com/jobs) ##
