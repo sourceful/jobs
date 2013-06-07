@@ -26,12 +26,12 @@
 
 ## [Dice](http://www.dice.com/) ##
 
-### Contribute ###
-
-You are welcome to fork this repo and send pull requests adding more job listing sites with a signficant front-end development job listing presence.
-
-### Recommended Reading ###
+## Recommended Reading ##
 
 If you are looking for a front-end position, you might find this repository **extremely** resourceful:
 
 [Front End Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+
+## Contribute ##
+
+You are welcome to fork this repo and send pull requests adding more job listing sites with a signficant front-end development job listing presence.
