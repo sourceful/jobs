@@ -8,6 +8,8 @@
 
 ## [Smashing Magazine Jobs](http://jobs.smashingmagazine.com/) ##
 
+## [Treehouse Job Board](http://teamtreehouse.com/jobs) ##
+
 ## [NodeJS Jobs](http://jobs.nodejs.org/) ##
 
 ## [Angular Jobs](http://www.angularjobs.com/) ##
