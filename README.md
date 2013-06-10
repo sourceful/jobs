@@ -32,7 +32,8 @@
 
 If you are looking for a front-end position, you might find this repository **extremely** resourceful:
 
-[Front End Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+- [Front End Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+- [Superhero.js](http://superherojs.com)
 
 ## Contribute ##
 
