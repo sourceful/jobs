@@ -28,6 +28,8 @@
 
 ## [Dice](http://www.dice.com/) ##
 
+## [Tuts+ Jobs](https://jobs.tutsplus.com/) ##
+
 ## Recommended Reading ##
 
 If you are looking for a front-end position, you might find this repository **extremely** resourceful:
