@@ -30,6 +30,8 @@
 
 ## [Tuts+ Jobs](https://jobs.tutsplus.com/) ##
 
+## [AngelList](https://angel.co/jobs) ##
+
 ## Recommended Reading ##
 
 If you are looking for a front-end position, you might find this repository **extremely** resourceful:
