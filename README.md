@@ -40,6 +40,7 @@ If you are looking for a front-end position, you might find this repository **ex
 - [Superhero.js](http://superherojs.com)
 - [Front End Tools](https://github.com/bevacqua/frontend-tools)
 - [Front End Dev Bookmarks](https://github.com/bevacqua/frontend-dev-bookmarks)
+- [Pony Foo](https://github.com/ponyfoo) - organization with lots of useful public forks
 
 ## Contribute ##
 
