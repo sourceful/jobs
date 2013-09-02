@@ -45,3 +45,7 @@ If you are looking for a front-end position, you might find this repository **ex
 ## Contribute ##
 
 You are welcome to fork this repo and send pull requests adding more job listing sites with a signficant front-end development job listing presence.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bevacqua/frontend-job-listings/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
