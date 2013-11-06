@@ -1,4 +1,4 @@
-# Job listing websites for front-end developers
+# Job listings for front-end developers
 
 ### [GitHub Jobs](https://jobs.github.com/)
 
