@@ -10,6 +10,8 @@
 
 ### [Treehouse Job Board](http://teamtreehouse.com/jobs)
 
+### [Front End Developer Job](http://frontenddeveloperjob.com/)
+
 ### [NodeJS Jobs](http://jobs.nodejs.org/)
 
 ### [Angular Jobs](http://www.angularjobs.com/)
