@@ -46,6 +46,7 @@ If you are looking for a front-end position, you might find these repositories *
 
 - [Front End Developer Interview Questions](https://github.com/sourceful/Front-end-Developer-Interview-Questions)
 - [Superhero.js](http://superherojs.com)
+- [JS: The Right Way](http://jstherightway.org/)
 - [Front End Tools](https://github.com/sourceful/frontend-tools)
 - [Front End Dev Bookmarks](https://github.com/sourceful/frontend-dev-bookmarks)
 - [It doesn't get any more resourceful than **Sourceful**](https://github.com/sourceful) - organization with lots of useful public forks
