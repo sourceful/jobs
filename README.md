@@ -40,6 +40,8 @@
 
 ### [AngelList](https://angel.co/jobs)
 
+### [Heapsort](http://www.heapsortjobs.com/)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
