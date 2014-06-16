@@ -4,8 +4,6 @@
 
 ### [StackOverflow Careers](http://careers.stackoverflow.com/)
 
-### [37 Signals Jobs](http://jobs.37signals.com/jobs)
-
 ### [Smashing Magazine Jobs](http://jobs.smashingmagazine.com/)
 
 ### [Treehouse Job Board](http://teamtreehouse.com/jobs)
