@@ -40,6 +40,8 @@
 
 ### [Heapsort](http://www.heapsortjobs.com/)
 
+### [Exactly.io](http://exactly.io)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
