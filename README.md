@@ -42,6 +42,8 @@
 
 ### [Exactly.io](http://exactly.io)
 
+### [Jr.DevJobs](http://www.jrdevjobs.com)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
@@ -51,6 +53,8 @@ If you are looking for a front-end position, you might find these repositories *
 - [JS: The Right Way](http://jstherightway.org/)
 - [Front End Tools](https://github.com/sourceful/frontend-tools)
 - [Front End Dev Bookmarks](https://github.com/sourceful/frontend-dev-bookmarks)
+- [Frontdesk - Resources for Front End Developers](https://github.com/miripiruni/frontdesk)
+- [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 - [It doesn't get any more resourceful than **Sourceful**](https://github.com/sourceful) - organization with lots of useful public forks
 
 ## Contribute!
