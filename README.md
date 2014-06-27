@@ -38,7 +38,7 @@
 
 ### [AngelList](https://angel.co/jobs)
 
-### [Heapsort](http://www.heapsortjobs.com/)
+### [HeapSort](http://www.heapsortjobs.com/jobs/search/)
 
 ### [Exactly.io](http://exactly.io)
 
