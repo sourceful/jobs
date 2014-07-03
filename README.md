@@ -44,6 +44,8 @@
 
 ### [Jr.DevJobs](http://www.jrdevjobs.com)
 
+### [Human Coders Jobs](http://jobs.humancoders.com)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
