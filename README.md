@@ -44,6 +44,8 @@
 
 ### [Jr.DevJobs](http://www.jrdevjobs.com)
 
+### [Freshjobs](http://freshjobs.ch/)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
