@@ -46,6 +46,8 @@
 
 ### [Freshjobs](http://freshjobs.ch/)
 
+### [Front-end Developer](http://www.frontenddeveloperjob.com/)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
