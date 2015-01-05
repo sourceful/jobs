@@ -28,7 +28,7 @@
 
 ### [Dice](http://www.dice.com/)
 
-### [Awwwards] (http://www.awwwards.com/jobs/)
+### [Awwwards](http://www.awwwards.com/jobs/)
 
 ### [Tuts+ Jobs](https://jobs.tutsplus.com/)
 
@@ -45,6 +45,8 @@
 ### [Jr.DevJobs](http://www.jrdevjobs.com)
 
 ### [Freshjobs](http://freshjobs.ch/)
+
+### [Front End Developer Job](http://frontenddeveloperjob.com/)
 
 ## Recommended Reading
 
