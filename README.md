@@ -4,6 +4,8 @@
 
 ### [StackOverflow Careers](http://careers.stackoverflow.com/)
 
+### [HackerNews Who's Hiring](http://whereis-whoishiring-hiring.me/)
+
 ### [Smashing Magazine Jobs](http://jobs.smashingmagazine.com/)
 
 ### [Treehouse Job Board](http://teamtreehouse.com/jobs)
