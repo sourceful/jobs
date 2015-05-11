@@ -48,6 +48,8 @@
 
 ### [Freshjobs](http://freshjobs.ch/)
 
+### [Staff](http://www.staff.com/)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
