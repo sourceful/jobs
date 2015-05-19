@@ -20,15 +20,9 @@
 
 ### [Authentic Jobs](http://www.authenticjobs.com/)
 
-### [Mighty Spring](http://www.mightyspring.com/)
-
 ### [Coder Wall](https://coderwall.com/jobs)
 
 ### [Work in Startups](http://workinstartups.com/)
-
-### [Sillicon Milkroundabout Events](http://siliconmilkroundabout.com/)
-
-### [Dice](http://www.dice.com/)
 
 ### [Awwwards] (http://www.awwwards.com/jobs/)
 
@@ -36,13 +30,7 @@
 
 ### [WeWorkRemotely](https://weworkremotely.com/)
 
-### [RemoteJobs.io](http://remotejobs.io/)
-
 ### [AngelList](https://angel.co/jobs)
-
-### [HeapSort](http://www.heapsortjobs.com/jobs/search/)
-
-### [Exactly.io](http://exactly.io)
 
 ### [Jr.DevJobs](http://www.jrdevjobs.com)
 
