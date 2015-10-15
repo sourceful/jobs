@@ -38,6 +38,8 @@
 
 ### [Staff](http://www.staff.com/)
 
+### [CodePen Jobs](http://codepen.io/jobs/)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
