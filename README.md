@@ -49,6 +49,7 @@ If you are looking for a front-end position, you might find these repositories *
 - [Front End Developer Interview Questions](https://github.com/sourceful/Front-end-Developer-Interview-Questions)
 - [Superhero.js](http://superherojs.com)
 - [JS: The Right Way](http://jstherightway.org/)
+- [A Career Guide to Front End Developers](https://github.com/woliveiras/front-end-career/blob/master/README.md)
 - [Front End Tools](https://github.com/sourceful/frontend-tools)
 - [Front End Dev Bookmarks](https://github.com/sourceful/frontend-dev-bookmarks)
 - [Frontdesk - Resources for Front End Developers](https://github.com/miripiruni/frontdesk)
