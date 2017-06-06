@@ -44,6 +44,8 @@
 
 ### [whoishiring.io](https://whoishiring.io)
 
+### [FrontHAT](https://fronthat.com/)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
