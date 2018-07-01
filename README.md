@@ -24,7 +24,7 @@
 
 ### [Work in Startups](http://workinstartups.com/)
 
-### [Awwwards] (http://www.awwwards.com/jobs/)
+### [Awwwards](http://www.awwwards.com/jobs/)
 
 ### [Tuts+ Jobs](https://jobs.tutsplus.com/)
 
