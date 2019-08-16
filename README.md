@@ -48,6 +48,8 @@
 
 ### [Vue.js Jobs](https://vuejobs.com/)
 
+### [Front End Remote Jobs](https://frontendremotejobs.com/)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
