@@ -6,6 +6,8 @@
 
 ### [HackerNews Who's Hiring](http://whereis-whoishiring-hiring.me/)
 
+### [Career Vault](https://careervault.io/)
+
 ### [Smashing Magazine Jobs](http://jobs.smashingmagazine.com/)
 
 ### [Treehouse Job Board](http://teamtreehouse.com/jobs)
