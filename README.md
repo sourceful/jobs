@@ -50,6 +50,8 @@
 
 ### [Front End Remote Jobs](https://frontendremotejobs.com/)
 
+### [4 day week](https://4dayweek.io/)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
