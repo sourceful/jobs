@@ -32,6 +32,8 @@
 
 ### [AngelList](https://angel.co/jobs)
 
+### [Himalayas](https://himalayas.app)
+
 ### [Jr.DevJobs](http://www.jrdevjobs.com)
 
 ### [Freshjobs](http://freshjobs.ch/)
