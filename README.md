@@ -50,6 +50,8 @@
 
 ### [Front End Remote Jobs](https://frontendremotejobs.com/)
 
+### [OkJob](https://okjob.io)
+
 ## Recommended Reading
 
 If you are looking for a front-end position, you might find these repositories **extremely resourceful**:
